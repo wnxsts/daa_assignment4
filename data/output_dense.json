@@ -1,0 +1,166 @@
+{
+  "results": [
+    {
+      "graph_id": 1,
+      "file": "input_dense.json",
+      "density": "dense",
+      "variant": "one_cycle",
+      "n": 6,
+      "m": 16,
+      "shortest": {
+        "ops_total": 7,
+        "time_ms": 0.001,
+        "path_len": 0.0
+      },
+      "longest": {
+        "ops_total": 7,
+        "time_ms": 0.001,
+        "path_len": 0.0
+      }
+    },
+    {
+      "graph_id": 2,
+      "file": "input_dense.json",
+      "density": "dense",
+      "variant": "one_cycle",
+      "n": 8,
+      "m": 29,
+      "shortest": {
+        "ops_total": 9,
+        "time_ms": 0.001,
+        "path_len": 0.0
+      },
+      "longest": {
+        "ops_total": 9,
+        "time_ms": 0.001,
+        "path_len": 0.0
+      }
+    },
+    {
+      "graph_id": 3,
+      "file": "input_dense.json",
+      "density": "dense",
+      "variant": "one_cycle",
+      "n": 10,
+      "m": 57,
+      "shortest": {
+        "ops_total": 11,
+        "time_ms": 0.001,
+        "path_len": 0.0
+      },
+      "longest": {
+        "ops_total": 11,
+        "time_ms": 0.001,
+        "path_len": 0.0
+      }
+    },
+    {
+      "graph_id": 4,
+      "file": "input_dense.json",
+      "density": "dense",
+      "variant": "one_cycle",
+      "n": 12,
+      "m": 76,
+      "shortest": {
+        "ops_total": 13,
+        "time_ms": 0.001,
+        "path_len": 0.0
+      },
+      "longest": {
+        "ops_total": 13,
+        "time_ms": 0.001,
+        "path_len": 0.0
+      }
+    },
+    {
+      "graph_id": 5,
+      "file": "input_dense.json",
+      "density": "dense",
+      "variant": "one_cycle",
+      "n": 16,
+      "m": 133,
+      "shortest": {
+        "ops_total": 17,
+        "time_ms": 0.001,
+        "path_len": 0.0
+      },
+      "longest": {
+        "ops_total": 17,
+        "time_ms": 0.001,
+        "path_len": 0.0
+      }
+    },
+    {
+      "graph_id": 6,
+      "file": "input_dense.json",
+      "density": "dense",
+      "variant": "one_cycle",
+      "n": 20,
+      "m": 225,
+      "shortest": {
+        "ops_total": 21,
+        "time_ms": 0.001,
+        "path_len": 0.0
+      },
+      "longest": {
+        "ops_total": 21,
+        "time_ms": 0.001,
+        "path_len": 0.0
+      }
+    },
+    {
+      "graph_id": 7,
+      "file": "input_dense.json",
+      "density": "dense",
+      "variant": "one_cycle",
+      "n": 25,
+      "m": 332,
+      "shortest": {
+        "ops_total": 26,
+        "time_ms": 0.001,
+        "path_len": 0.0
+      },
+      "longest": {
+        "ops_total": 26,
+        "time_ms": 0.001,
+        "path_len": 0.0
+      }
+    },
+    {
+      "graph_id": 8,
+      "file": "input_dense.json",
+      "density": "dense",
+      "variant": "one_cycle",
+      "n": 35,
+      "m": 602,
+      "shortest": {
+        "ops_total": 36,
+        "time_ms": 0.001,
+        "path_len": 0.0
+      },
+      "longest": {
+        "ops_total": 36,
+        "time_ms": 0.001,
+        "path_len": 0.0
+      }
+    },
+    {
+      "graph_id": 9,
+      "file": "input_dense.json",
+      "density": "dense",
+      "variant": "one_cycle",
+      "n": 50,
+      "m": 1225,
+      "shortest": {
+        "ops_total": 51,
+        "time_ms": 0.001,
+        "path_len": 0.0
+      },
+      "longest": {
+        "ops_total": 51,
+        "time_ms": 0.0,
+        "path_len": 0.0
+      }
+    }
+  ]
+}
